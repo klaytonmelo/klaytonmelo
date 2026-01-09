@@ -1,6 +1,6 @@
 ## 👨‍💻Klayton de melo
 
-**`Técnico em informatica`**
+**`Técnico em informática`**
 
 Me chamo Klayton de Melo, tenho 16 anos e sou do Pará. atualmente estou cursando o ensino médio no IFPA, com curso técnico em informática.
 - 🔭 Atualmente estudando e focando no back-and
