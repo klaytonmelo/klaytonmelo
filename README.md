@@ -32,3 +32,18 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klayton.melo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaytonmelo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klaytonmelo09@gmail.com)
+
+
+## 📊 GitHub Stats
+
+![Metrics](https://github.com/klaytonmelo/klaytonmelo/blob/main/github-metrics.svg)
+
+
+<!--
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=klaytonmelo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaytonmelo&layout=compact&theme=tokyonight)
+-->
+
+
