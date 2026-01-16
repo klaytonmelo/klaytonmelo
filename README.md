@@ -33,11 +33,9 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaytonmelo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klaytonmelo09@gmail.com)
 
-
 ## 📊 GitHub Stats
 
-![Metrics](https://github.com/klaytonmelo/klaytonmelo/blob/main/github-metrics.svg)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=klaytonmelo&theme=tokyonight)
 
 <!--
 ## 📊 GitHub Stats
