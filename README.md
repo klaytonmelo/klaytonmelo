@@ -1,19 +1,34 @@
-## 👨‍💻Klayton de melo
+# 👋 Olá, me chamo Klayton de Melo
 
-**`Técnico em informática`**
+💻 **Estudante de Desenvolvimento full stack | Técnico em Informática**
 
-Me chamo Klayton de Melo, tenho 16 anos e sou do Pará. atualmente estou cursando o ensino médio no IFPA, com curso técnico em informática.
-- 🔭 Atualmente estudando e focando no back-end
-- 🌱 Estudando linguagens como python, JavaScript, HTML e CSS
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="klayton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="klayton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="klayton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="klayton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
--<div> 
-  <a href="https://www.instagram.com/klayton.melo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:klaytonmelo09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/klaytonmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+Sou estudante do ensino médio no **IFPA**, cursando **Técnico em Informática**.  
+Tenho 16 anos, sou do **Pará** e estou focado em evoluir como desenvolvedor, criando projetos e aprendendo boas práticas de programação.
+
+---
+
+## 🚀 Atualmente
+- 🔧 Focado no **full stack**
+- 📚 Estudando **Python** e **JavaScript**
+- 🌐 Conhecimentos em **HTML** e **CSS**
+- 🧠 Sempre buscando aprender algo novo
+
+---
+
+## 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🎯 Objetivo
+Desenvolver projetos reais, evoluir no **full-stack** e conquistar oportunidades na área de tecnologia.
+
+---
+
+## 📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klayton.melo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/klaytonmelo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klaytonmelo09@gmail.com)
