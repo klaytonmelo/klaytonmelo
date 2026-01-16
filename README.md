@@ -3,7 +3,7 @@
 💻 **Estudante de Desenvolvimento full stack | Técnico em Informática**
 
 Sou estudante do ensino médio no **IFPA**, cursando **Técnico em Informática**.  
-Tenho 16 anos, sou do **Pará** e estou focado em evoluir como desenvolvedor, criando projetos e aprendendo boas práticas de programação.
+Tenho 16 anos, sou do **Pará** e focado em evoluir como desenvolvedor, criando projetos e aprendendo boas práticas de programação.
 
 ---
 
@@ -30,5 +30,5 @@ Desenvolver projetos reais, evoluir no **full-stack** e conquistar oportunidades
 
 ## 📫 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klayton.melo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/klaytonmelo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klayton-de-melo-e-silva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klaytonmelo09@gmail.com)
