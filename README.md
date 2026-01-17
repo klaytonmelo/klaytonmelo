@@ -35,10 +35,10 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=klaytonmelo&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=klaytonmelo&theme=tokyonight) 
 
 <!--
-## 📊 GitHub Stats
+## 📊 GitHub Stats ert
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=klaytonmelo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaytonmelo&layout=compact&theme=tokyonight)
