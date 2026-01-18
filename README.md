@@ -1,13 +1,11 @@
-# 👋 Olá, me chamo Klayton de Melo
+## 👨‍💻 Klayton de Melo
 
 💻 **`Estudante de Desenvolvimento Full Stack | Técnico em Informática`**
 
-Sou estudante do ensino médio no **IFPA**, cursando **Técnico em Informática**.  
-Tenho 16 anos, sou do **Pará** e estou focado em evoluir como desenvolvedor full stack, criando projetos e aplicando boas práticas de programação.
+Me chamo klayton, tenho 16 anos e sou do **Pará**, atualmente estou fazendo o ensino médio no **IFPA**, cursando **Técnico em Informática**.
+Estou focado em evoluir como desenvolvedor full stack, criando projetos e aplicando boas práticas de programação.
 
----
-
-## 🚀 Atualmente
+### 🚀 Atualmente
 - 🔧 Focado no **full stack**
 - 📚 Estudando **Python** e **JavaScript**
 - 🌐 Conhecimentos em **HTML** e **CSS**
@@ -23,7 +21,7 @@ Tenho 16 anos, sou do **Pará** e estou focado em evoluir como desenvolvedor ful
 
 ---
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades na área de tecnologia.
 
 ---
