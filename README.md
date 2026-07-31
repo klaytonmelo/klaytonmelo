@@ -2,7 +2,7 @@
 
 💻 **`Técnico em Informática | Estudante de Desenvolvimento Full Stack`**
 
-Olá, Me chamo klayton, tenho 16 anos e atualmente estou fazendo o ensino médio no **IFPA**, cursando **Técnico em Informática**.
+Olá, Me chamo klayton, tenho 16 anos e sou estudante do curso **Técnico em Informática** no **IFPA**.
 Estou focado em evoluir como desenvolvedor full stack, criando projetos e aplicando boas práticas de programação.
 
 ### 🚀 Atualmente
@@ -15,9 +15,12 @@ Estou focado em evoluir como desenvolvedor full stack, criando projetos e aplica
 
 ## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -37,11 +40,9 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
   <br>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<!--
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=klaytonmelo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaytonmelo&layout=compact&theme=tokyonight)
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaytonmelo&show_icons=true&theme=tokyonight&hide_border=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaytonmelo&layout=compact&theme=tokyonight&hide_border=true)
