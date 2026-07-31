@@ -2,8 +2,8 @@
 
 💻 **`Técnico em Informática | Estudante de Desenvolvimento Full Stack`**
 
-Olá, Me chamo klayton, tenho 16 anos e sou estudante do curso **Técnico em Informática** no **IFPA**.
-Estou focado em evoluir como desenvolvedor full stack, criando projetos e aplicando boas práticas de programação.
+Olá, Me chamo **klayton**, tenho 16 anos e sou estudante do curso **Técnico em Informática** no **IFPA**.
+Estou focado em evoluir como desenvolvedor full stack, criando projetos, aplicando boas práticas e evoluindo na programação.
 
 ### 🚀 Atualmente
 - 🔧 Focado no **full stack**
@@ -29,6 +29,15 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  
+  ![GitHub Stats](https://ghstats.dev/api/card?username=klaytonmelo&theme=tokyonight)
+
+</div>
+
+---
+
 ## 📫 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klayton.melo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaytonmelo)
@@ -36,13 +45,9 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Dev+Full-Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Dev+Full+Stack" />
   <br>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaytonmelo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaytonmelo&layout=compact&theme=tokyonight&hide_border=true)
