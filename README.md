@@ -2,7 +2,7 @@
 
 💻 **`Técnico em Informática | Estudante de Desenvolvimento Full Stack`**
 
-Olá, Me chamo **klayton**, tenho 16 anos e sou estudante do curso **Técnico em Informática** no **IFPA**.
+Olá, me chamo **klayton**, tenho 17 anos e sou estudante do curso **Técnico em Informática** no **IFPA**.
 Estou focado em evoluir como desenvolvedor full stack, criando projetos, aplicando boas práticas e evoluindo na programação.
 
 ### 🚀 Atualmente
