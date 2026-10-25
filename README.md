@@ -6,7 +6,7 @@
 👨‍💻 Foco em desenvolvimento full stack.
 
 ### 🚀 Atualmente
-- 🔧 Focado no **full stack**
+- 🔧 Focado no desenvolvimento **back-end** e desenvolvendo conhecimentos em **Full-Stack**
 - 📚 Estudando **Python**, **Java** e **JavaScript**
 - 🌐 Conhecimentos em **HTML** e **CSS**
 
@@ -23,7 +23,7 @@
 
 ---
 ### 🎯 Objetivo
-Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades na área de tecnologia.
+Desenvolver projetos reais, evoluir no **back-end** e conquistar oportunidades na área de tecnologia.
 
 ---
 
@@ -43,7 +43,7 @@ Desenvolver projetos reais, evoluir no **full stack** e conquistar oportunidades
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Dev+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Dev+back-end" />
   <br>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
