@@ -3,7 +3,7 @@
 💻 **`Técnico em Informática | Foco em Desenvolvimento Full Stack`**
 
 👋 Olá, me chamo **klayton**. Atualmente cursando **Técnico em Informática** no **Instituto Federal do Pará** (**IFPA**).<br>
-👨‍💻 Foco em desenvolvimento full stack.
+👨‍💻 Foco em desenvolvimento back-end.
 
 ### 🚀 Atualmente
 - 🔧 Focado no desenvolvimento **back-end** e desenvolvendo conhecimentos em **Full-Stack**
